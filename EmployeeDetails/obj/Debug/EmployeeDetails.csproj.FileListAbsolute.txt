@@ -1,0 +1,28 @@
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\user\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\user\Desktop\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+F:\Vavuniya Campus UOJ\Practical\2nd year\1st sem\IT 2143(Visual Programming)\IT2143(P)\03-01-2023\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
